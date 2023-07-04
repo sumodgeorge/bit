@@ -123,7 +123,7 @@
   },
   "dependencies": {
     "@teambit/toolbox.network.agent": "0.0.116",
-    "@babel/core": "7.12.17",
+    "@babel/core": "7.22.6",
     "@babel/runtime": "7.12.18",
     "@teambit/network.agent": "0.0.1",
     "@vuedoc/parser": "2.4.0",
