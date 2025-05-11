@@ -124,7 +124,7 @@
   "dependencies": {
     "@teambit/toolbox.network.agent": "0.0.116",
     "@babel/core": "7.12.17",
-    "@babel/runtime": "7.12.18",
+    "@babel/runtime": "7.26.10",
     "@teambit/network.agent": "0.0.1",
     "@vuedoc/parser": "2.4.0",
     "acorn": "6.4.2",
@@ -210,7 +210,7 @@
     "prompt": "1.1.0",
     "ramda": "0.27.1",
     "ramda-adjunct": "2.31.1",
-    "react-docgen": "5.3.1",
+    "react-docgen": "6.0.0",
     "react-docgen-typescript": "1.21.0",
     "read-pkg-up": "7.0.1",
     "readable-stream": "3.6.0",
